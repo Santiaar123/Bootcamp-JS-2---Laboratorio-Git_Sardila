@@ -39,3 +39,11 @@
 <img src="./Capturas/cambios_Github.png" >
 
 5. Hacer un merge
+
+> Realizamos un merge y arrglamos todos los cambios desde VS
+
+<img src="./Capturas/merge.png">
+
+> Y una vez comprobados los cambios realizamos un commit con los cambios y un push para subirlo a Github
+
+<img src="./Capturas/git push final.png">
