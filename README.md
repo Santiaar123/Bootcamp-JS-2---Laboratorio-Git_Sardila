@@ -10,6 +10,12 @@
 
 > Cremos Repositorio en Github para vincularlo con el repositorio en local
 
-<img src="./Capturas/Github_Creando_repositorio.png" width="400px">
+<img src="./Capturas/Github_Creando_repositorio.png" width="400px" align-items="center">
+
+<img src="./Capturas/vinculación_local.png">
+
+> Comprobamos que se ha vinculado correctamente en Github "el error de la captura es por que ya había ejecutado el comando anteriormente"
+
+3. Hacer un commit y un push
 
 >
