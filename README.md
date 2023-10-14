@@ -14,8 +14,28 @@
 
 <img src="./Capturas/vinculación_local.png">
 
-> Comprobamos que se ha vinculado correctamente en Github "el error de la captura es por que ya había ejecutado el comando anteriormente"
+> Comprobamos que se ha vinculado correctamente en Github **_"el error de la captura es por que ya había ejecutado el comando anteriormente"_**
 
 3. Hacer un commit y un push
 
->
+> Creamos un archivo HTML y lo añadimos a staging utilizando el comando **_git add _** , también se puede realizar con el comando **_git add Nonbre_Archivo_**
+
+<img src="./Capturas/staging.png" align-items="center">
+
+> Hacemos un Commit con los cambios guardados con un mensaje y realizamos el comando **_git push_** para subir los cambios al repositorio de github.
+
+<img src="./Capturas/commit y push.png" align-items="center">
+
+4. Crear una rama
+
+> Creamos una ramacon el comando **_git branch_** llamada "Development" y nos dirigimos a ella con el comando \*\*\_git checkout Development
+
+<img src="./Capturas/branch development.png" align-items="center">
+
+> Realizamos un commit y un push y verificamos que aparezca todo correctamente
+
+<img src="./Capturas/commit y push rama.png" >
+
+<img src="./Capturas/cambios_Github.png" >
+
+5. Hacer un merge
