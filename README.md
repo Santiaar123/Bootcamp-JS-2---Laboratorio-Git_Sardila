@@ -1,4 +1,4 @@
-# Entrega Laboratorio de Git Santiago Ardila
+# Entrega Laboratorio de Git Santiago Ardila Ortega
 
 1. Crear un repositorio en local
 
@@ -47,3 +47,7 @@
 > Y una vez comprobados los cambios realizamos un commit con los cambios y un push para subirlo a Github
 
 <img src="./Capturas/git push final.png">
+
+> Comprobamos que los cambios en el repositorio en Github se hayan ejecutado correctamente
+
+<img src="./Capturas/github_final.png">
