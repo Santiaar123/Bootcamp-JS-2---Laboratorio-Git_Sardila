@@ -32,4 +32,10 @@
 
 <img src="./Capturas/branch development.png" align-items="center">
 
->
+> Realizamos un commit y un push y verificamos que aparezca todo correctamente
+
+<img src="./Capturas/commit y push rama.png" >
+
+<img src="./Capturas/cambios_Github.png" >
+
+5. Hacer un merge
